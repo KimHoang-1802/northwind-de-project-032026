@@ -14,14 +14,14 @@ Hệ thống bao gồm:
 
 --- 
 ## Setup project
-1. Clone repository
-git clone https://github.com/KimHoang-1802/northwind-de-project-032026.git
-cd northwind-de-project-032026
+1. Clone repository <br>
+- git clone https://github.com/KimHoang-1802/northwind-de-project-032026.git <br>
+- cd northwind-de-project-032026
 
 2. Tạo cấu trúc thư mục
-mkdir dbt
-mkdir airflow
-mkdir airflow/dags
+- mkdir dbt <br>
+- mkdir airflow>> <br>
+- mkdir airflow/dags <br>
 
 
 --- 

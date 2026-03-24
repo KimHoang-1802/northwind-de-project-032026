@@ -11,6 +11,9 @@ Hệ thống bao gồm:
 - Data Modeling (Star Schema)
 - Dashboard phân tích
 
----
 
+--- 
+## Setup project
+
+--- 
 ##  Kiến trúc hệ thống

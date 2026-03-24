@@ -20,7 +20,7 @@ Hệ thống bao gồm:
 
 2. Tạo cấu trúc thư mục
 - mkdir dbt <br>
-- mkdir airflow>> <br>
+- mkdir airflow <br>
 - mkdir airflow/dags <br>
 
 

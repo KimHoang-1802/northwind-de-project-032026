@@ -22,7 +22,9 @@ Hệ thống bao gồm:
 - mkdir dbt <br>
 - mkdir airflow <br>
 - mkdir airflow/dags <br>
-
+### Tạo project dbt 
+- dbt init northwind_dbt <br>
+- cd northwind_dbt <br>
 
 --- 
 ##  Kiến trúc hệ thống
